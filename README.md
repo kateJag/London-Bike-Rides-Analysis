@@ -6,7 +6,7 @@
 
 ---
 ## Data Source
-The dataset was sourced from Kaggle, providing detailed records of London bike rides from 2015 to 2017.
+This project uses data provided by [Transport for London (TfL) Open Data](https://tfl.gov.uk/info-for/open-data-users/). 
 
 ### Key Features:
 - **Timeframe:** January 2015 to January 2017.
