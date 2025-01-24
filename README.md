@@ -4,6 +4,9 @@
 
 🌟 This project analyzes London bike rides between 2015 and 2017 to explore key patterns, seasonal trends, and environmental factors influencing bike usage.
 
+## Available Languages:
+- [English Version (README.md)](./README.md)
+- [Ukrainian Version (README_UA.md)](./README_UA.md)
 ---
 ## Data Source
 This project uses data provided by [Transport for London (TfL) Open Data](https://tfl.gov.uk/info-for/open-data-users/). 
