@@ -18,7 +18,7 @@ The dataset was sourced from Kaggle, providing detailed records of London bike r
 ### Example Data:
 Below is a snapshot of the dataset:
 
-![Dataset Example](./assets/bikes_head.png)
+![Dataset Example](assets/bikes_head.png)
 
 ---
 
@@ -64,11 +64,11 @@ Explore the interactive Tableau dashboard for detailed visualizations:
 
 1. **Two-day Moving Average of Bike Rides:**
 
-   ![Moving Average Visualization](./assets/moving_average.png)
+   ![Moving Average Visualization](assets/moving_average.png)
 
 2. **Temperature vs. Wind Speed Heatmap:**
 
-   ![Temperature vs Wind Speed](./assets/temperature_vs_wind_speed.png)
+   ![Temperature vs Wind Speed](assets/temperature_vs_wind_speed.png)
 
 ## Insights
 
